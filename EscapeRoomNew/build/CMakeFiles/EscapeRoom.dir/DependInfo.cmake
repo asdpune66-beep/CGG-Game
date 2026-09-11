@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoom/src/core/Game.cpp" "CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj.d"
-  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoom/src/graphics/Renderer.cpp" "CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj.d"
-  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoom/src/main.cpp" "CMakeFiles/EscapeRoom.dir/src/main.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/main.cpp.obj.d"
+  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoomNew/src/core/Game.cpp" "CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj.d"
+  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoomNew/src/graphics/Renderer.cpp" "CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj.d"
+  "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoomNew/src/main.cpp" "CMakeFiles/EscapeRoom.dir/src/main.cpp.obj" "gcc" "CMakeFiles/EscapeRoom.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

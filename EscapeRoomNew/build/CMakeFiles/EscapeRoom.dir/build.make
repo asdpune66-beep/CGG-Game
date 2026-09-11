@@ -52,10 +52,10 @@ RM = C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom"
+CMAKE_SOURCE_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build"
+CMAKE_BINARY_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/EscapeRoom.dir/depend.make
@@ -73,48 +73,48 @@ CMakeFiles/EscapeRoom.dir/codegen:
 
 CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: CMakeFiles/EscapeRoom.dir/flags.make
 CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: CMakeFiles/EscapeRoom.dir/includes_CXX.rsp
-CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoom/src/main.cpp
+CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoomNew/src/main.cpp
 CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: CMakeFiles/EscapeRoom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EscapeRoom.dir/src/main.cpp.obj"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/main.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\main.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\main.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EscapeRoom.dir/src/main.cpp.obj"
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/main.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\main.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\main.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\main.cpp"
 
 CMakeFiles/EscapeRoom.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/EscapeRoom.dir/src/main.cpp.i"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\main.cpp" > CMakeFiles\EscapeRoom.dir\src\main.cpp.i
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\main.cpp" > CMakeFiles\EscapeRoom.dir\src\main.cpp.i
 
 CMakeFiles/EscapeRoom.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/EscapeRoom.dir/src/main.cpp.s"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\main.cpp" -o CMakeFiles\EscapeRoom.dir\src\main.cpp.s
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\main.cpp" -o CMakeFiles\EscapeRoom.dir\src\main.cpp.s
 
 CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj: CMakeFiles/EscapeRoom.dir/flags.make
 CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj: CMakeFiles/EscapeRoom.dir/includes_CXX.rsp
-CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoom/src/core/Game.cpp
+CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoomNew/src/core/Game.cpp
 CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj: CMakeFiles/EscapeRoom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\core\Game.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj"
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\core\Game.cpp"
 
 CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.i"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\core\Game.cpp" > CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.i
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\core\Game.cpp" > CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.i
 
 CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.s"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\core\Game.cpp" -o CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.s
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\core\Game.cpp" -o CMakeFiles\EscapeRoom.dir\src\core\Game.cpp.s
 
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: CMakeFiles/EscapeRoom.dir/flags.make
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: CMakeFiles/EscapeRoom.dir/includes_CXX.rsp
-CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoom/src/graphics/Renderer.cpp
+CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoomNew/src/graphics/Renderer.cpp
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: CMakeFiles/EscapeRoom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\graphics\Renderer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj"
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj -MF CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.obj.d -o CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.obj -c "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\graphics\Renderer.cpp"
 
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.i"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\graphics\Renderer.cpp" > CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.i
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\graphics\Renderer.cpp" > CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.i
 
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.s"
-	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\src\graphics\Renderer.cpp" -o CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.s
+	C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\src\graphics\Renderer.cpp" -o CMakeFiles\EscapeRoom.dir\src\graphics\Renderer.cpp.s
 
 # Object files for target EscapeRoom
 EscapeRoom_OBJECTS = \
@@ -129,11 +129,11 @@ EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/src/main.cpp.obj
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/src/core/Game.cpp.obj
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/build.make
-EscapeRoom.exe: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoom/third_party/lib-mingw-w64/libglfw3.a
+EscapeRoom.exe: C:/Users/Aaryan/Desktop/Third\ Year/CGG/EscapeRoomNew/third_party/lib-mingw-w64/libglfw3.a
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/linkLibs.rsp
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/objects1.rsp
 EscapeRoom.exe: CMakeFiles/EscapeRoom.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EscapeRoom.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EscapeRoom.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\EscapeRoom.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -145,6 +145,6 @@ CMakeFiles/EscapeRoom.dir/clean:
 .PHONY : CMakeFiles/EscapeRoom.dir/clean
 
 CMakeFiles/EscapeRoom.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles\EscapeRoom.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles\EscapeRoom.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/EscapeRoom.dir/depend
 

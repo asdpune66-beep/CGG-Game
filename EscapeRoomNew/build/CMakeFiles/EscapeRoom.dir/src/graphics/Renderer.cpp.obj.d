@@ -1,6 +1,6 @@
 CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: \
- C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoom\src\graphics\Renderer.cpp \
- C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoom\src\graphics\Renderer.h \
+ C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoomNew\src\graphics\Renderer.cpp \
+ C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoomNew\src\graphics\Renderer.h \
  C:/Users/Aaryan/Desktop/THIRDY~1/CGG/ESCAPE~1/THIRD_~1/glfw/include/GLFW/glfw3.h \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/x86_64-w64-mingw32/include/stddef.h \
@@ -79,4 +79,7 @@ CMakeFiles/EscapeRoom.dir/src/graphics/Renderer.cpp.obj: \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/tr1/modified_bessel_func.tcc \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/tr1/poly_hermite.tcc \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/tr1/poly_laguerre.tcc \
- C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/tr1/riemann_zeta.tcc
+ C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/tr1/riemann_zeta.tcc \
+ C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/cstring \
+ C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h

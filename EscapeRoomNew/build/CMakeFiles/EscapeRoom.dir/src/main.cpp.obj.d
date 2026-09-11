@@ -1,5 +1,5 @@
 CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: \
- C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoom\src\main.cpp \
+ C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoomNew\src\main.cpp \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/iostream \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -158,4 +158,4 @@ CMakeFiles/EscapeRoom.dir/src/main.cpp.obj: \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/include/c++/15.1.0/bits/parse_numbers.h \
  C:/Users/Aaryan/Desktop/THIRDY~1/CGG/ESCAPE~1/THIRD_~1/glfw/include/GLFW/glfw3.h \
  C:/Users/Aaryan/Downloads/winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2/mingw64/x86_64-w64-mingw32/include/GL/gl.h \
- C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoom\src\core/Game.h
+ C:\Users\Aaryan\Desktop\Third\ Year\CGG\EscapeRoomNew\src\core/Game.h

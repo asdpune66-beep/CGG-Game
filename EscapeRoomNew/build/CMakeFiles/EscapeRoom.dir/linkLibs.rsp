@@ -1,1 +1,1 @@
- "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoom/third_party/lib-mingw-w64/libglfw3.a" -lopengl32 -lgdi32 -luser32 -lshell32 -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "C:/Users/Aaryan/Desktop/Third Year/CGG/EscapeRoomNew/third_party/lib-mingw-w64/libglfw3.a" -lopengl32 -lgdi32 -luser32 -lshell32 -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

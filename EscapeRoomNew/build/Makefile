@@ -56,10 +56,10 @@ RM = C:\Users\Aaryan\Downloads\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom"
+CMAKE_SOURCE_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build"
+CMAKE_BINARY_DIR = "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoom\build\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Aaryan\Desktop\Third Year\CGG\EscapeRoomNew\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
